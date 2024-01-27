@@ -1,5 +1,5 @@
 <div background-color = "blue"> 
-<img src="https://tarunbatra.com/data/images/git-before-github/cover.png" />
+<img src="https://www.equinox.co.nz/hs-fs/hubfs/Fiachra%20blog%20post%201%20cover.png?width=1920&name=Fiachra%20blog%20post%201%20cover.png"/>
 <ul>
   <li>- 👋 Hi, I’m @ghulamhasnain007</li>
   <li>- 👀 I’m interested in ...</li>
