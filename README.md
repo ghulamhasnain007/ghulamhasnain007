@@ -1,5 +1,5 @@
 Hi there 👋
-I'm [Your Name], a passionate software developer with a keen interest in web development, machine learning, and AI integration. I recently completed a 1-year certification from SMIT and have been actively involved in various projects, including the creation of an Assignment Submission Portal as part of a team.
+I'm Ghulam Hasnain, a passionate software developer with a keen interest in web development, machine learning, and AI integration. I recently completed a 1-year certification from SMIT and have been actively involved in various projects, including the creation of an Assignment Submission Portal as part of a team.
 
 🔭 What I'm Working On
 Assignment Submission Portal: A full-stack project developed using the MERN stack, with features like role management, AI-assisted assignment grading, performance analytics, and more.
