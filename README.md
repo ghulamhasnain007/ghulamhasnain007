@@ -4,10 +4,10 @@ I'm Ghulam Hasnain, a passionate software developer with a keen interest in web 
 
 ### 🔭 What I'm Working On
 - **Assignment Submission Portal:** A full-stack project developed using the MERN stack, with features like role management, AI-assisted assignment grading, performance analytics, and more.
-- **Airplane Ticketing System:** Currently exploring a user support system for an airplane ticketing system to enhance user experience and streamline the booking process.
 - **React Projects:** Continually refining my skills in React, Ant Design, and role-based authentication for dynamic web applications.
 
 ### 🌱 What I'm Learning
+- AWS
 - Advanced AI integration techniques.
 - Best practices in RESTful API design.
 - Optimizing front-end performance using React and modern JavaScript frameworks.
@@ -26,4 +26,4 @@ I'm Ghulam Hasnain, a passionate software developer with a keen interest in web 
 - LinkedIn: (www.linkedin.com/in/ghulam-hasnain-otho/)
 
 ### ⚡ Fun Fact
-I love attending tech events like Google I/O Extended, where I get to connect with like-minded individuals and learn about the latest trends in technology.
+I love attending tech events like Google I/O Extended, Azure Fest Karachi, etc where I get to connect with like-minded individuals and learn about the latest trends in technology.
