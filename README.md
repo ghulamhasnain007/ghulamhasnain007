@@ -24,6 +24,3 @@ I'm Ghulam Hasnain, a passionate software developer with a keen interest in web 
 ### 📫 How to Reach Me
 - Email: (mailto:ghasnain668@gmail.com)
 - LinkedIn: (www.linkedin.com/in/ghulam-hasnain-otho/)
-
-### ⚡ Fun Fact
-I love attending tech events like Google I/O Extended, Azure Fest Karachi, etc where I get to connect with like-minded individuals and learn about the latest trends in technology.
