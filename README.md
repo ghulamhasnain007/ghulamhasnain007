@@ -1,26 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 What I'm Working On<br>  Assignment Submission Portal: A full-stack project developed using the MERN stack, with features like role management, AI-assisted assignment grading, performance analytics, and more.<br>  React Projects: Continually refining my skills in React, Ant Design, and role-based authentication for dynamic web applications.<br>🌱 What I'm Learning<br>  AWS<br>  Advanced AI integration techniques.<br>  Best practices in RESTful API design.<br>  Optimizing front-end performance using React and modern JavaScript frameworks.<br>👯 Looking to Collaborate On<br>  Open-source projects related to web development, AI, and machine learning.<br> Hackathons and coding challenges to push my skills further.<br>💬 Ask Me About<br>  Front-end development using React and Ant Design.<br>  Building robust full-stack applications.<br>  Integrating AI features into existing systems.<br>📫 How to Reach Me<br>Email: (ghasnain668@gmail.com)<br>LinkedIn: (www.linkedin.com/in/ghulam-hasnain-otho/)
 
-I'm Ghulam Hasnain, a passionate software developer with a keen interest in web development, machine learning, and AI integration. I recently completed a 1-year certification from SMIT and have been actively involved in various projects, including the creation of an Assignment Submission Portal as part of a team.
 
-### 🔭 What I'm Working On
-- **Assignment Submission Portal:** A full-stack project developed using the MERN stack, with features like role management, AI-assisted assignment grading, performance analytics, and more.
-- **React Projects:** Continually refining my skills in React, Ant Design, and role-based authentication for dynamic web applications.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ghulam-hasnain-otho) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ghasnain668) 
 
-### 🌱 What I'm Learning
-- AWS
-- Advanced AI integration techniques.
-- Best practices in RESTful API design.
-- Optimizing front-end performance using React and modern JavaScript frameworks.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ghulamhasnain007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ghulamhasnain007&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamhasnain007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 👯 Looking to Collaborate On
-- Open-source projects related to web development, AI, and machine learning.
-- Hackathons and coding challenges to push my skills further.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ghulamhasnain007&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### 💬 Ask Me About
-- Front-end development using React and Ant Design.
-- Building robust full-stack applications.
-- Integrating AI features into existing systems.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ghulamhasnain007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 📫 How to Reach Me
-- Email: (mailto:ghasnain668@gmail.com)
-- LinkedIn: (www.linkedin.com/in/ghulam-hasnain-otho/)
+---
+[![](https://visitcount.itsvg.in/api?id=ghulamhasnain007&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
